@@ -10,15 +10,15 @@ As a web developer, I want a deployed portfolio that can showcase my work to pot
 
 <strong>Programs used</strong>
 
-I used HTML, CSS, bootstrap, Javascript, jquery, node.js, express js, and other javascript library. And of course Git/Github were used as version control and deployed to Heroku.
+I used HTML, CSS, bootstrap, Javascript, jquery, node.js, express js, and other javascript library, handlebars and mySQL. And of course Git/Github were used as version control and deployed to Heroku.
 
 <strong>Installation</strong>
 
-This is a website only and does not need installation. it is currently hosted in github and you can access it at Github; https://github.com/Janviermbilizi/Note_Taker, and Heroku;
+This is a website only and does not need installation. it is currently hosted in heroku and you can access it at Github; https://eat-da-burger-site.herokuapp.com/;
 
 <strong>Usage</strong>
 
-This application is simple, clean, easy to use and undertand. With this app, you will be to create notes and save them. you will be able to create, Read, Update and delete notes, not just from the page, but also from the database. You can access it from the github or heroku link above.
+This application is simple, clean, easy to use and undertand. With this app, you will be able and add, devoure and delete burger, not just on the page but also in the database. To add burger, you will type the burger name and type add button. To devoure burger, you will go to added burgers, and type devoure button to the burger you want to devoure. And to delete devoured burgers, you will just click delete button.
 
 <strong>Support and Contribution</strong>
 
