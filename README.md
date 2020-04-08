@@ -20,6 +20,8 @@ This is a website only and does not need installation. it is currently hosted in
 
 This application is simple, clean, easy to use and undertand. With this app, you will be able and add, devoure and delete burger, not just on the page but also in the database. To add burger, you will type the burger name and type add button. To devoure burger, you will go to added burgers, and type devoure button to the burger you want to devoure. And to delete devoured burgers, you will just click delete button.
 
+<div style="text-align:center">><img src="./Eat-Da-burger App.png" width = 300px></div>
+
 <strong>Support and Contribution</strong>
 
 If you have any questions or want to see my Repo, please email me at janviermbilizi@gmail.com.
